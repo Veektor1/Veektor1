@@ -1,4 +1,4 @@
-<h1>Hi, I am Victor <br/><a href="https://github.com/Veektor1">Product Manager</a> and <a href="https://www.linkedin.com/in/veektor/">Cybersecurity Professional</a>
+<h1>Hi, I am Victor <br/><a href="https://github.com/Veektor1">Product Manager</a> and <a href="https://www.linkedin.com/in/veektor/">Cybersecurity Analyst</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 

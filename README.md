@@ -3,11 +3,11 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-- [Active Directory Home Lab](https://github.com/j/Algorithms-Practice)
-- [Hello World!](https://github.com/joshm/Algorithms-Practice)
+- [Active Directory Home Lab](https://github.com/j/Algohms-Practice)
+- [Hello World!](https://github.com/joshm/Algorims-Practice)
 <h2>📄Certifications</h2>
 
-- [Google Cybersecurity](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Cybersecurity](https://www.youtube.com/wa)
   
 <h2>📺 Popular YouTube Videos</h2>
 

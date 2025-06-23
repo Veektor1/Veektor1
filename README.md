@@ -1,13 +1,17 @@
-<h1>Hi, I am Victor <br/><a href="https://github.com/Veektor1"> <a href="https://www.linkedin.com/in/veektor/">Cybersecurity Analyst</a>
+<h1>Hi, I am Victor Ekere <br/><a href="https://github.com/Veektor1"> <a href="https://www.linkedin.com/in/veektor/"> Cybersecurity Analyst | Founder, Secure Path | Focused on Threat Intelligence, Security Awareness, SME Protection | Featured by UNDP West & Central Africa for Cybersecurity Impact</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
 - [Active Directory Home Lab](https://github.com/j/Algohms-Practice)
 - [Splunk Cloud Evaluation](https://github.com/Veektor1/Evaluating-Failed-Login-logs-using-Splunk)
+- [Password Checker](https://github.com/Veektor1/PwdChecker)
+- [Threat Detection Scripts](https://github)
+- [Email Header Analyzer (coming soon)](https://gith)
+  
 <h2>📄Certifications</h2>
 
-- [Google Cybersecurity](https://www.youtube.com/wa)
+- [Google Cybersecurity](https://www.youtube.c)
   
 <h2>📺 Popular YouTube Videos</h2>
 
@@ -28,14 +32,3 @@
 
 <!--
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

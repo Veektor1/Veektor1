@@ -2,12 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-
+- [Email Header Analyzer](https://github.com/Veektor1/email-header-analyzer)
 - [Active Directory Home Lab](https://github.com/j/Algohms-Practice)
 - [Splunk Cloud Evaluation](https://github.com/Veektor1/Evaluating-Failed-Login-logs-using-Splunk)
 - [Password Checker](https://github.com/Veektor1/PwdChecker)
 - [Threat Detection Scripts](https://github)
-- [Email Header Analyzer (coming soon)](https://gith)
   
 <h2>📄Certifications</h2>
 

@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Email Header Analyzer](https://github.com/Veektor1/email-header-analyzer)
-- [AI-Security-and-ML-Project](https://github.com/j/Algohms-Practice)
+- [AI-Security-and-ML-Project](https://github.com/Veektor1/AI-Security-and-ML-Projects)
 - [Splunk Cloud Evaluation](https://github.com/Veektor1/Evaluating-Failed-Login-logs-using-Splunk)
 - [Password Checker](https://github.com/Veektor1/PwdChecker)
 - [Threat Detection Scripts](https://github)

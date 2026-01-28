@@ -1,4 +1,4 @@
-<h1>Hi, I am Victor Ekere <br/><a href="https://github.com/Veektor1"> <a href="https://www.linkedin.com/in/veektor/"> Cybersecurity Analyst | Founder, Secure Path | Focused on Threat Intelligence, Security Awareness, SME Protection | Featured by UNDP West & Central Africa for Cybersecurity Impact</a>
+<h1>Hi, I am Victor Ekere <br/><a href="https://github.com/Veektor1"> <a href="https://www.linkedin.com/in/veektor/"> Cybersecurity and AI Security Specialist | Founder, Secure Path | Focused on Threat Intelligence, Security Awareness, SME Protection | Featured by UNDP West & Central Africa for Cybersecurity Impact</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
